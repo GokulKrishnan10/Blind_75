@@ -31,3 +31,8 @@
 #### 28.Course schedule
 #### 29.Pacific Atlantic water flow
 #### 30.Number of Islands
+#### 31.Longest Consecutive Sequence
+#### 32.Alien Dictionary
+#### 33.Graph valid Tree
+#### 34.Number of connected components in an undirected Graph
+#### 35.Insert Interval
