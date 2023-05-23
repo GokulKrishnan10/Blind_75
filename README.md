@@ -83,3 +83,13 @@
 #### 39.Meeting Rooms II
 
 #### 40.Reverse a Linked List
+
+#### 41.Linked List Cycle
+
+#### 42.Merge two sorted Lists
+
+#### 43.Merge k sorted lists
+
+#### 44.Remove Nth node from the end of list
+
+#### 45.Reorder List
