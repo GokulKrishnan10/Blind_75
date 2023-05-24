@@ -93,3 +93,13 @@
 #### 44.Remove Nth node from the end of list
 
 #### 45.Reorder List
+
+#### 46.Set Matrix Zeros
+
+#### 47.Spiral Matrix
+
+#### 48.Rotate Image
+
+#### 49.Word Search
+
+#### 50.Longest substring without repeating characters
