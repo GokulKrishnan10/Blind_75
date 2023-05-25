@@ -103,3 +103,13 @@
 #### 49.Word Search
 
 #### 50.Longest substring without repeating characters
+
+#### 51.Longest repeating character replacement
+
+#### 52.Minimum Window Substring
+
+#### 53.Valid anagram
+
+#### 54.Group anagrams
+
+#### 55.Valid parantheses
