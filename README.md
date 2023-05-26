@@ -113,3 +113,13 @@
 #### 54.Group anagrams
 
 #### 55.Valid parantheses
+
+#### 56.Valid palindrome
+
+#### 57.Longest palindromic substrings
+
+#### 58.Palindromic substrings
+
+#### 59.Encode and decode strings
+
+#### 60.Maximum Depth of Binary tree
