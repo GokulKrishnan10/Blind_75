@@ -123,3 +123,13 @@
 #### 59.Encode and decode strings
 
 #### 60.Maximum Depth of Binary tree
+
+#### 61.Same Tree
+
+#### 62.Invert Binary tree
+
+#### 63.Binary tree maximum path sum
+
+#### 64.Binary tree level order traversal
+
+#### 65.Serialize and Deserialize binary tree
