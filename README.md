@@ -133,3 +133,13 @@
 #### 64.Binary tree level order traversal
 
 #### 65.Serialize and Deserialize binary tree
+
+#### 66.Subtree of another tree
+
+#### 67.Construct Binary tree from postorder and inorder
+
+#### 68.Validate BST
+
+#### 69.Kth smallest element in BST
+
+#### 70.Lowest Common Ancestor in BST
