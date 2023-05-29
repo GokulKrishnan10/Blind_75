@@ -143,3 +143,15 @@
 #### 69.Kth smallest element in BST
 
 #### 70.Lowest Common Ancestor in BST
+
+#### 71.Implement Trie(Prefix Tree)
+
+#### 72.Add and Search word
+
+#### 73.Word Search II
+
+#### 74.Merge K sorted Lists
+
+#### 75.Top k frequent elements
+
+#### 76.Find median from datastream
